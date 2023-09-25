@@ -1,3 +1,1 @@
-hello
-world
-test
+let key='This is javascript file';
